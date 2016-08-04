@@ -2,7 +2,6 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Templates on Power Guide</title>
-<<<<<<< HEAD
     <link>https://rucch.github.io/2015/templates/</link>
     <description>Recent content in Templates on Power Guide</description>
     <generator>Hugo -- gohugo.io</generator>
@@ -15,244 +14,132 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://rucch.github.io/2015/templates/templates/</guid>
-=======
-    <link>http://localhost:1313/templates/</link>
-    <description>Recent content in Templates on Power Guide</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <atom:link href="http://localhost:1313/templates/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>temp</title>
-      <link>http://localhost:1313/templates/templates/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/templates/templates/</guid>
->>>>>>> 4acc95fc0746f22850436cb1eeb846188a99b29d
       <description></description>
     </item>
     
     <item>
       <title>introduction</title>
-<<<<<<< HEAD
       <link>https://rucch.github.io/2015/templates/introduction/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://rucch.github.io/2015/templates/introduction/</guid>
-=======
-      <link>http://localhost:1313/templates/introduction/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/templates/introduction/</guid>
->>>>>>> 4acc95fc0746f22850436cb1eeb846188a99b29d
       <description></description>
     </item>
     
     <item>
       <title>variables</title>
-<<<<<<< HEAD
       <link>https://rucch.github.io/2015/templates/variables/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://rucch.github.io/2015/templates/variables/</guid>
-=======
-      <link>http://localhost:1313/templates/variables/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/templates/variables/</guid>
->>>>>>> 4acc95fc0746f22850436cb1eeb846188a99b29d
       <description></description>
     </item>
     
     <item>
       <title>functions</title>
-<<<<<<< HEAD
       <link>https://rucch.github.io/2015/templates/functions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://rucch.github.io/2015/templates/functions/</guid>
-=======
-      <link>http://localhost:1313/templates/functions/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/templates/functions/</guid>
->>>>>>> 4acc95fc0746f22850436cb1eeb846188a99b29d
       <description></description>
     </item>
     
     <item>
       <title>includes</title>
-<<<<<<< HEAD
       <link>https://rucch.github.io/2015/templates/includes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://rucch.github.io/2015/templates/includes/</guid>
-=======
-      <link>http://localhost:1313/templates/includes/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/templates/includes/</guid>
->>>>>>> 4acc95fc0746f22850436cb1eeb846188a99b29d
       <description></description>
     </item>
     
     <item>
       <title>logic</title>
-<<<<<<< HEAD
       <link>https://rucch.github.io/2015/templates/logic/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://rucch.github.io/2015/templates/logic/</guid>
-=======
-      <link>http://localhost:1313/templates/logic/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/templates/logic/</guid>
->>>>>>> 4acc95fc0746f22850436cb1eeb846188a99b29d
       <description></description>
     </item>
     
     <item>
       <title>:more</title>
-<<<<<<< HEAD
       <link>https://rucch.github.io/2015/templates/:more/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://rucch.github.io/2015/templates/:more/</guid>
-=======
-      <link>http://localhost:1313/templates/:more/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/templates/:more/</guid>
->>>>>>> 4acc95fc0746f22850436cb1eeb846188a99b29d
       <description></description>
     </item>
     
     <item>
       <title>conditionals (if)</title>
-<<<<<<< HEAD
       <link>https://rucch.github.io/2015/templates/conditionals-%28if%29/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://rucch.github.io/2015/templates/conditionals-%28if%29/</guid>
-=======
-      <link>http://localhost:1313/templates/conditionals-%28if%29/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/templates/conditionals-%28if%29/</guid>
->>>>>>> 4acc95fc0746f22850436cb1eeb846188a99b29d
       <description></description>
     </item>
     
     <item>
       <title>if, else, and, or</title>
-<<<<<<< HEAD
       <link>https://rucch.github.io/2015/templates/if,-else,-and,-or/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://rucch.github.io/2015/templates/if,-else,-and,-or/</guid>
-=======
-      <link>http://localhost:1313/templates/if,-else,-and,-or/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/templates/if,-else,-and,-or/</guid>
->>>>>>> 4acc95fc0746f22850436cb1eeb846188a99b29d
       <description></description>
     </item>
     
     <item>
       <title>with, if else if</title>
-<<<<<<< HEAD
       <link>https://rucch.github.io/2015/templates/with,-if-else-if/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://rucch.github.io/2015/templates/with,-if-else-if/</guid>
-=======
-      <link>http://localhost:1313/templates/with,-if-else-if/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/templates/with,-if-else-if/</guid>
->>>>>>> 4acc95fc0746f22850436cb1eeb846188a99b29d
       <description></description>
     </item>
     
     <item>
       <title>pipes</title>
-<<<<<<< HEAD
       <link>https://rucch.github.io/2015/templates/pipes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://rucch.github.io/2015/templates/pipes/</guid>
-=======
-      <link>http://localhost:1313/templates/pipes/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/templates/pipes/</guid>
->>>>>>> 4acc95fc0746f22850436cb1eeb846188a99b29d
       <description></description>
     </item>
     
     <item>
       <title>:more</title>
-<<<<<<< HEAD
       <link>https://rucch.github.io/2015/templates/:-more/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://rucch.github.io/2015/templates/:-more/</guid>
-=======
-      <link>http://localhost:1313/templates/:-more/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/templates/:-more/</guid>
->>>>>>> 4acc95fc0746f22850436cb1eeb846188a99b29d
       <description></description>
     </item>
     
     <item>
       <title>:more</title>
-<<<<<<< HEAD
       <link>https://rucch.github.io/2015/templates/:--more/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://rucch.github.io/2015/templates/:--more/</guid>
-=======
-      <link>http://localhost:1313/templates/:--more/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/templates/:--more/</guid>
->>>>>>> 4acc95fc0746f22850436cb1eeb846188a99b29d
       <description></description>
     </item>
     
     <item>
       <title>IE conditional</title>
-<<<<<<< HEAD
       <link>https://rucch.github.io/2015/templates/IE-conditional/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://rucch.github.io/2015/templates/IE-conditional/</guid>
-=======
-      <link>http://localhost:1313/templates/IE-conditional/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/templates/IE-conditional/</guid>
->>>>>>> 4acc95fc0746f22850436cb1eeb846188a99b29d
       <description></description>
     </item>
     
     <item>
       <title>:more</title>
-<<<<<<< HEAD
       <link>https://rucch.github.io/2015/templates/:---more/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://rucch.github.io/2015/templates/:---more/</guid>
-=======
-      <link>http://localhost:1313/templates/:---more/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/templates/:---more/</guid>
->>>>>>> 4acc95fc0746f22850436cb1eeb846188a99b29d
       <description></description>
     </item>
     
