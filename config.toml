@@ -1,0 +1,8 @@
+baseurl = "http://hugoPowerGuide/"
+languageCode = "en-us"
+title = "Power Guide"
+
+
+[taxonomies]
+menu = "menu"
+group = "groups"
