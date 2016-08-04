@@ -2,6 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hugos on Power Guide</title>
+<<<<<<< HEAD
     <link>https://rucch.github.io/2015/hugo/</link>
     <description>Recent content in Hugos on Power Guide</description>
     <generator>Hugo -- gohugo.io</generator>
@@ -14,132 +15,244 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://rucch.github.io/2015/hugo/hugo/</guid>
+=======
+    <link>http://localhost:1313/hugo/</link>
+    <description>Recent content in Hugos on Power Guide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/hugo/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>hugo</title>
+      <link>http://localhost:1313/hugo/hugo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/hugo/hugo/</guid>
+>>>>>>> 4acc95fc0746f22850436cb1eeb846188a99b29d
       <description></description>
     </item>
     
     <item>
       <title>organization</title>
+<<<<<<< HEAD
       <link>https://rucch.github.io/2015/hugo/organization/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://rucch.github.io/2015/hugo/organization/</guid>
+=======
+      <link>http://localhost:1313/hugo/organization/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/hugo/organization/</guid>
+>>>>>>> 4acc95fc0746f22850436cb1eeb846188a99b29d
       <description></description>
     </item>
     
     <item>
       <title>sections</title>
+<<<<<<< HEAD
       <link>https://rucch.github.io/2015/hugo/sections/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://rucch.github.io/2015/hugo/sections/</guid>
+=======
+      <link>http://localhost:1313/hugo/sections/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/hugo/sections/</guid>
+>>>>>>> 4acc95fc0746f22850436cb1eeb846188a99b29d
       <description></description>
     </item>
     
     <item>
       <title>create</title>
+<<<<<<< HEAD
       <link>https://rucch.github.io/2015/hugo/create/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://rucch.github.io/2015/hugo/create/</guid>
+=======
+      <link>http://localhost:1313/hugo/create/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/hugo/create/</guid>
+>>>>>>> 4acc95fc0746f22850436cb1eeb846188a99b29d
       <description></description>
     </item>
     
     <item>
       <title>destinations</title>
+<<<<<<< HEAD
       <link>https://rucch.github.io/2015/hugo/destinations/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://rucch.github.io/2015/hugo/destinations/</guid>
+=======
+      <link>http://localhost:1313/hugo/destinations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/hugo/destinations/</guid>
+>>>>>>> 4acc95fc0746f22850436cb1eeb846188a99b29d
       <description></description>
     </item>
     
     <item>
       <title>req variables</title>
+<<<<<<< HEAD
       <link>https://rucch.github.io/2015/hugo/req-variables/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://rucch.github.io/2015/hugo/req-variables/</guid>
+=======
+      <link>http://localhost:1313/hugo/req-variables/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/hugo/req-variables/</guid>
+>>>>>>> 4acc95fc0746f22850436cb1eeb846188a99b29d
       <description></description>
     </item>
     
     <item>
       <title>:more</title>
+<<<<<<< HEAD
       <link>https://rucch.github.io/2015/hugo/:more/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://rucch.github.io/2015/hugo/:more/</guid>
+=======
+      <link>http://localhost:1313/hugo/:more/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/hugo/:more/</guid>
+>>>>>>> 4acc95fc0746f22850436cb1eeb846188a99b29d
       <description></description>
     </item>
     
     <item>
       <title>archetypes</title>
+<<<<<<< HEAD
       <link>https://rucch.github.io/2015/hugo/archetypes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://rucch.github.io/2015/hugo/archetypes/</guid>
+=======
+      <link>http://localhost:1313/hugo/archetypes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/hugo/archetypes/</guid>
+>>>>>>> 4acc95fc0746f22850436cb1eeb846188a99b29d
       <description></description>
     </item>
     
     <item>
       <title>:rules</title>
+<<<<<<< HEAD
       <link>https://rucch.github.io/2015/hugo/:rules/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://rucch.github.io/2015/hugo/:rules/</guid>
+=======
+      <link>http://localhost:1313/hugo/:rules/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/hugo/:rules/</guid>
+>>>>>>> 4acc95fc0746f22850436cb1eeb846188a99b29d
       <description></description>
     </item>
     
     <item>
       <title>the templates</title>
+<<<<<<< HEAD
       <link>https://rucch.github.io/2015/hugo/the-templates/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://rucch.github.io/2015/hugo/the-templates/</guid>
+=======
+      <link>http://localhost:1313/hugo/the-templates/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/hugo/the-templates/</guid>
+>>>>>>> 4acc95fc0746f22850436cb1eeb846188a99b29d
       <description></description>
     </item>
     
     <item>
       <title>single</title>
+<<<<<<< HEAD
       <link>https://rucch.github.io/2015/hugo/single/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://rucch.github.io/2015/hugo/single/</guid>
+=======
+      <link>http://localhost:1313/hugo/single/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/hugo/single/</guid>
+>>>>>>> 4acc95fc0746f22850436cb1eeb846188a99b29d
       <description></description>
     </item>
     
     <item>
       <title>single :example</title>
+<<<<<<< HEAD
       <link>https://rucch.github.io/2015/hugo/single-:example/</link>
       <pubDate>Fri, 04 Dec 2015 04:53:20 +0000</pubDate>
       
       <guid>https://rucch.github.io/2015/hugo/single-:example/</guid>
+=======
+      <link>http://localhost:1313/hugo/single-:example/</link>
+      <pubDate>Fri, 04 Dec 2015 04:53:20 +0000</pubDate>
+      
+      <guid>http://localhost:1313/hugo/single-:example/</guid>
+>>>>>>> 4acc95fc0746f22850436cb1eeb846188a99b29d
       <description></description>
     </item>
     
     <item>
       <title>:more</title>
+<<<<<<< HEAD
       <link>https://rucch.github.io/2015/hugo/:-more/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://rucch.github.io/2015/hugo/:-more/</guid>
+=======
+      <link>http://localhost:1313/hugo/:-more/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/hugo/:-more/</guid>
+>>>>>>> 4acc95fc0746f22850436cb1eeb846188a99b29d
       <description></description>
     </item>
     
     <item>
       <title>:more</title>
+<<<<<<< HEAD
       <link>https://rucch.github.io/2015/hugo/:--more/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://rucch.github.io/2015/hugo/:--more/</guid>
+=======
+      <link>http://localhost:1313/hugo/:--more/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/hugo/:--more/</guid>
+>>>>>>> 4acc95fc0746f22850436cb1eeb846188a99b29d
       <description></description>
     </item>
     
     <item>
       <title>:more</title>
+<<<<<<< HEAD
       <link>https://rucch.github.io/2015/hugo/:---more/</link>
       <pubDate>Fri, 04 Dec 2015 04:59:40 +0000</pubDate>
       
       <guid>https://rucch.github.io/2015/hugo/:---more/</guid>
+=======
+      <link>http://localhost:1313/hugo/:---more/</link>
+      <pubDate>Fri, 04 Dec 2015 04:59:40 +0000</pubDate>
+      
+      <guid>http://localhost:1313/hugo/:---more/</guid>
+>>>>>>> 4acc95fc0746f22850436cb1eeb846188a99b29d
       <description></description>
     </item>
     

@@ -2,6 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gos on Power Guide</title>
+<<<<<<< HEAD
     <link>https://rucch.github.io/2015/go/</link>
     <description>Recent content in Gos on Power Guide</description>
     <generator>Hugo -- gohugo.io</generator>
@@ -14,105 +15,196 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://rucch.github.io/2015/go/go/</guid>
+=======
+    <link>http://localhost:1313/go/</link>
+    <description>Recent content in Gos on Power Guide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/go/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>go</title>
+      <link>http://localhost:1313/go/go/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/go/go/</guid>
+>>>>>>> 4acc95fc0746f22850436cb1eeb846188a99b29d
       <description></description>
     </item>
     
     <item>
       <title>IsSet, echoParam</title>
+<<<<<<< HEAD
       <link>https://rucch.github.io/2015/go/IsSet,-echoParam/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://rucch.github.io/2015/go/IsSet,-echoParam/</guid>
+=======
+      <link>http://localhost:1313/go/IsSet,-echoParam/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/go/IsSet,-echoParam/</guid>
+>>>>>>> 4acc95fc0746f22850436cb1eeb846188a99b29d
       <description></description>
     </item>
     
     <item>
       <title>eq, first</title>
+<<<<<<< HEAD
       <link>https://rucch.github.io/2015/go/eq,-first/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://rucch.github.io/2015/go/eq,-first/</guid>
+=======
+      <link>http://localhost:1313/go/eq,-first/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/go/eq,-first/</guid>
+>>>>>>> 4acc95fc0746f22850436cb1eeb846188a99b29d
       <description></description>
     </item>
     
     <item>
       <title>where</title>
+<<<<<<< HEAD
       <link>https://rucch.github.io/2015/go/where/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://rucch.github.io/2015/go/where/</guid>
+=======
+      <link>http://localhost:1313/go/where/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/go/where/</guid>
+>>>>>>> 4acc95fc0746f22850436cb1eeb846188a99b29d
       <description></description>
     </item>
     
     <item>
       <title>in</title>
+<<<<<<< HEAD
       <link>https://rucch.github.io/2015/go/in/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://rucch.github.io/2015/go/in/</guid>
+=======
+      <link>http://localhost:1313/go/in/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/go/in/</guid>
+>>>>>>> 4acc95fc0746f22850436cb1eeb846188a99b29d
       <description></description>
     </item>
     
     <item>
       <title>:more</title>
+<<<<<<< HEAD
       <link>https://rucch.github.io/2015/go/:more/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://rucch.github.io/2015/go/:more/</guid>
+=======
+      <link>http://localhost:1313/go/:more/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/go/:more/</guid>
+>>>>>>> 4acc95fc0746f22850436cb1eeb846188a99b29d
       <description></description>
     </item>
     
     <item>
       <title>intersect</title>
+<<<<<<< HEAD
       <link>https://rucch.github.io/2015/go/intersect/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://rucch.github.io/2015/go/intersect/</guid>
+=======
+      <link>http://localhost:1313/go/intersect/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/go/intersect/</guid>
+>>>>>>> 4acc95fc0746f22850436cb1eeb846188a99b29d
       <description></description>
     </item>
     
     <item>
       <title>math</title>
+<<<<<<< HEAD
       <link>https://rucch.github.io/2015/go/math/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://rucch.github.io/2015/go/math/</guid>
+=======
+      <link>http://localhost:1313/go/math/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/go/math/</guid>
+>>>>>>> 4acc95fc0746f22850436cb1eeb846188a99b29d
       <description></description>
     </item>
     
     <item>
       <title>:more</title>
+<<<<<<< HEAD
       <link>https://rucch.github.io/2015/go/:-more/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://rucch.github.io/2015/go/:-more/</guid>
+=======
+      <link>http://localhost:1313/go/:-more/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/go/:-more/</guid>
+>>>>>>> 4acc95fc0746f22850436cb1eeb846188a99b29d
       <description></description>
     </item>
     
     <item>
       <title>strings</title>
+<<<<<<< HEAD
       <link>https://rucch.github.io/2015/go/strings/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://rucch.github.io/2015/go/strings/</guid>
+=======
+      <link>http://localhost:1313/go/strings/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/go/strings/</guid>
+>>>>>>> 4acc95fc0746f22850436cb1eeb846188a99b29d
       <description></description>
     </item>
     
     <item>
       <title>:more</title>
+<<<<<<< HEAD
       <link>https://rucch.github.io/2015/go/:--more/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://rucch.github.io/2015/go/:--more/</guid>
+=======
+      <link>http://localhost:1313/go/:--more/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/go/:--more/</guid>
+>>>>>>> 4acc95fc0746f22850436cb1eeb846188a99b29d
       <description></description>
     </item>
     
     <item>
       <title>:more</title>
+<<<<<<< HEAD
       <link>https://rucch.github.io/2015/go/:---more/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://rucch.github.io/2015/go/:---more/</guid>
+=======
+      <link>http://localhost:1313/go/:---more/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/go/:---more/</guid>
+>>>>>>> 4acc95fc0746f22850436cb1eeb846188a99b29d
       <description></description>
     </item>
     

@@ -2,6 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Reference on Power Guide</title>
+<<<<<<< HEAD
     <link>https://rucch.github.io/2015/groups/reference/</link>
     <description>Recent content in Reference on Power Guide</description>
     <generator>Hugo -- gohugo.io</generator>
@@ -14,78 +15,148 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://rucch.github.io/2015/reference/:more/</guid>
+=======
+    <link>http://localhost:1313/groups/reference/</link>
+    <description>Recent content in Reference on Power Guide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/groups/reference/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>:more</title>
+      <link>http://localhost:1313/reference/:more/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/reference/:more/</guid>
+>>>>>>> 4acc95fc0746f22850436cb1eeb846188a99b29d
       <description></description>
     </item>
     
     <item>
       <title>:more</title>
+<<<<<<< HEAD
       <link>https://rucch.github.io/2015/reference/:-more/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://rucch.github.io/2015/reference/:-more/</guid>
+=======
+      <link>http://localhost:1313/reference/:-more/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/reference/:-more/</guid>
+>>>>>>> 4acc95fc0746f22850436cb1eeb846188a99b29d
       <description></description>
     </item>
     
     <item>
       <title>:more</title>
+<<<<<<< HEAD
       <link>https://rucch.github.io/2015/reference/:--more/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://rucch.github.io/2015/reference/:--more/</guid>
+=======
+      <link>http://localhost:1313/reference/:--more/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/reference/:--more/</guid>
+>>>>>>> 4acc95fc0746f22850436cb1eeb846188a99b29d
       <description></description>
     </item>
     
     <item>
       <title>:more</title>
+<<<<<<< HEAD
       <link>https://rucch.github.io/2015/reference/:---more/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://rucch.github.io/2015/reference/:---more/</guid>
+=======
+      <link>http://localhost:1313/reference/:---more/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/reference/:---more/</guid>
+>>>>>>> 4acc95fc0746f22850436cb1eeb846188a99b29d
       <description></description>
     </item>
     
     <item>
       <title>node variables</title>
+<<<<<<< HEAD
       <link>https://rucch.github.io/2015/reference/node-variables/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://rucch.github.io/2015/reference/node-variables/</guid>
+=======
+      <link>http://localhost:1313/reference/node-variables/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/reference/node-variables/</guid>
+>>>>>>> 4acc95fc0746f22850436cb1eeb846188a99b29d
       <description></description>
     </item>
     
     <item>
       <title>page params</title>
+<<<<<<< HEAD
       <link>https://rucch.github.io/2015/reference/page-params/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://rucch.github.io/2015/reference/page-params/</guid>
+=======
+      <link>http://localhost:1313/reference/page-params/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/reference/page-params/</guid>
+>>>>>>> 4acc95fc0746f22850436cb1eeb846188a99b29d
       <description></description>
     </item>
     
     <item>
       <title>page variables</title>
+<<<<<<< HEAD
       <link>https://rucch.github.io/2015/reference/page-variables/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://rucch.github.io/2015/reference/page-variables/</guid>
+=======
+      <link>http://localhost:1313/reference/page-variables/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/reference/page-variables/</guid>
+>>>>>>> 4acc95fc0746f22850436cb1eeb846188a99b29d
       <description></description>
     </item>
     
     <item>
       <title>ref</title>
+<<<<<<< HEAD
       <link>https://rucch.github.io/2015/reference/reference/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://rucch.github.io/2015/reference/reference/</guid>
+=======
+      <link>http://localhost:1313/reference/reference/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/reference/reference/</guid>
+>>>>>>> 4acc95fc0746f22850436cb1eeb846188a99b29d
       <description></description>
     </item>
     
     <item>
       <title>site variables</title>
+<<<<<<< HEAD
       <link>https://rucch.github.io/2015/reference/site-variables/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://rucch.github.io/2015/reference/site-variables/</guid>
+=======
+      <link>http://localhost:1313/reference/site-variables/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/reference/site-variables/</guid>
+>>>>>>> 4acc95fc0746f22850436cb1eeb846188a99b29d
       <description></description>
     </item>
     
