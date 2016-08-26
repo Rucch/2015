@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Guide on Power Guide</title>
-    <link>https://rucch.github.io/2015/groups/guide/</link>
+    <link>http://localhost:1313/2015/groups/guide/</link>
     <description>Recent content in Guide on Power Guide</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://rucch.github.io/2015/groups/guide/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/2015/groups/guide/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>grouping</title>
-      <link>https://rucch.github.io/2015/hugoGuide/grouping/</link>
+      <link>http://localhost:1313/2015/hugoGuide/grouping/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://rucch.github.io/2015/hugoGuide/grouping/</guid>
+      <guid>http://localhost:1313/2015/hugoGuide/grouping/</guid>
       <description>&lt;hr /&gt;
 
 &lt;p&gt;Grouping Content&lt;/p&gt;
@@ -78,10 +78,10 @@ Providing the (alternate) direction&lt;/p&gt;
     
     <item>
       <title>homepage</title>
-      <link>https://rucch.github.io/2015/hugoGuide/homepage/</link>
+      <link>http://localhost:1313/2015/hugoGuide/homepage/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://rucch.github.io/2015/hugoGuide/homepage/</guid>
+      <guid>http://localhost:1313/2015/hugoGuide/homepage/</guid>
       <description>&lt;hr /&gt;
 
 &lt;p&gt;index.html Template&lt;/p&gt;
@@ -126,10 +126,10 @@ Providing the (alternate) direction&lt;/p&gt;
     
     <item>
       <title>list pages</title>
-      <link>https://rucch.github.io/2015/hugoGuide/list-pages/</link>
+      <link>http://localhost:1313/2015/hugoGuide/list-pages/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://rucch.github.io/2015/hugoGuide/list-pages/</guid>
+      <guid>http://localhost:1313/2015/hugoGuide/list-pages/</guid>
       <description>&lt;hr /&gt;
 
 &lt;p&gt;Exemple List Template Pages
@@ -248,10 +248,10 @@ __&lt;/p&gt;
     
     <item>
       <title>opitional templates</title>
-      <link>https://rucch.github.io/2015/hugoGuide/opitional-templates/</link>
+      <link>http://localhost:1313/2015/hugoGuide/opitional-templates/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://rucch.github.io/2015/hugoGuide/opitional-templates/</guid>
+      <guid>http://localhost:1313/2015/hugoGuide/opitional-templates/</guid>
       <description>&lt;hr /&gt;
 
 &lt;p&gt;OPITIONAL:&lt;/p&gt;
@@ -391,10 +391,10 @@ _&lt;/p&gt;
     
     <item>
       <title>taxonomy terms</title>
-      <link>https://rucch.github.io/2015/hugoGuide/taxonomy-terms/</link>
+      <link>http://localhost:1313/2015/hugoGuide/taxonomy-terms/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://rucch.github.io/2015/hugoGuide/taxonomy-terms/</guid>
+      <guid>http://localhost:1313/2015/hugoGuide/taxonomy-terms/</guid>
       <description>&lt;hr /&gt;
 
 &lt;p&gt;Taxonomy Terms

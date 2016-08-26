@@ -9,5 +9,4 @@ canonifyurls = true
 
 
 [taxonomies]
-menu = "menu"
 group = "groups"

@@ -10,7 +10,7 @@
 			{{ range (index .Site.Taxonomies.groups.go).Pages.ByWeight }}
 			<div data-role="collapsible" data-mini="true">
 				<h3>{{ .Title }}</h3>
-				<img src="/img/{{ .Params.image }}" style="width: 100%; height: auto; padding: 2px;">
+				<img src="/img/{{ .Params.image }}" style="width: 98%; margin-left: 1%;">
 			</div>		
 			{{ end }}
 		</div>
