@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Power Guide</title>
-    <link>http://localhost:1313/2015/</link>
+    <link>https://Rucch.github.io/2015/</link>
     <description>Recent content on Power Guide</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/2015/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://Rucch.github.io/2015/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>hugo</title>
-      <link>http://localhost:1313/2015/hugo/hugo/</link>
+      <link>https://rucch.github.io/2015/hugo/hugo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/2015/hugo/hugo/</guid>
+      <guid>https://rucch.github.io/2015/hugo/hugo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>homepage</title>
-      <link>http://localhost:1313/2015/hugoGuide/homepage/</link>
+      <link>https://rucch.github.io/2015/hugoGuide/homepage/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/2015/hugoGuide/homepage/</guid>
+      <guid>https://rucch.github.io/2015/hugoGuide/homepage/</guid>
       <description>&lt;hr /&gt;
 
 &lt;p&gt;index.html Template&lt;/p&gt;
@@ -67,19 +67,19 @@
     
     <item>
       <title>organization</title>
-      <link>http://localhost:1313/2015/hugo/organization/</link>
+      <link>https://rucch.github.io/2015/hugo/organization/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/2015/hugo/organization/</guid>
+      <guid>https://rucch.github.io/2015/hugo/organization/</guid>
       <description></description>
     </item>
     
     <item>
       <title>list pages</title>
-      <link>http://localhost:1313/2015/hugoGuide/list-pages/</link>
+      <link>https://rucch.github.io/2015/hugoGuide/list-pages/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/2015/hugoGuide/list-pages/</guid>
+      <guid>https://rucch.github.io/2015/hugoGuide/list-pages/</guid>
       <description>&lt;hr /&gt;
 
 &lt;p&gt;Exemple List Template Pages
@@ -198,19 +198,19 @@ __&lt;/p&gt;
     
     <item>
       <title>sections</title>
-      <link>http://localhost:1313/2015/hugo/sections/</link>
+      <link>https://rucch.github.io/2015/hugo/sections/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/2015/hugo/sections/</guid>
+      <guid>https://rucch.github.io/2015/hugo/sections/</guid>
       <description></description>
     </item>
     
     <item>
       <title>grouping</title>
-      <link>http://localhost:1313/2015/hugoGuide/grouping/</link>
+      <link>https://rucch.github.io/2015/hugoGuide/grouping/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/2015/hugoGuide/grouping/</guid>
+      <guid>https://rucch.github.io/2015/hugoGuide/grouping/</guid>
       <description>&lt;hr /&gt;
 
 &lt;p&gt;Grouping Content&lt;/p&gt;
@@ -275,19 +275,19 @@ Providing the (alternate) direction&lt;/p&gt;
     
     <item>
       <title>create</title>
-      <link>http://localhost:1313/2015/hugo/create/</link>
+      <link>https://rucch.github.io/2015/hugo/create/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/2015/hugo/create/</guid>
+      <guid>https://rucch.github.io/2015/hugo/create/</guid>
       <description></description>
     </item>
     
     <item>
       <title>taxonomy terms</title>
-      <link>http://localhost:1313/2015/hugoGuide/taxonomy-terms/</link>
+      <link>https://rucch.github.io/2015/hugoGuide/taxonomy-terms/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/2015/hugoGuide/taxonomy-terms/</guid>
+      <guid>https://rucch.github.io/2015/hugoGuide/taxonomy-terms/</guid>
       <description>&lt;hr /&gt;
 
 &lt;p&gt;Taxonomy Terms
@@ -392,19 +392,19 @@ example indexes.html file (ordered)
     
     <item>
       <title>destinations</title>
-      <link>http://localhost:1313/2015/hugo/destinations/</link>
+      <link>https://rucch.github.io/2015/hugo/destinations/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/2015/hugo/destinations/</guid>
+      <guid>https://rucch.github.io/2015/hugo/destinations/</guid>
       <description></description>
     </item>
     
     <item>
       <title>opitional templates</title>
-      <link>http://localhost:1313/2015/hugoGuide/opitional-templates/</link>
+      <link>https://rucch.github.io/2015/hugoGuide/opitional-templates/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/2015/hugoGuide/opitional-templates/</guid>
+      <guid>https://rucch.github.io/2015/hugoGuide/opitional-templates/</guid>
       <description>&lt;hr /&gt;
 
 &lt;p&gt;OPITIONAL:&lt;/p&gt;
@@ -544,46 +544,46 @@ _&lt;/p&gt;
     
     <item>
       <title>req variables</title>
-      <link>http://localhost:1313/2015/hugo/req-variables/</link>
+      <link>https://rucch.github.io/2015/hugo/req-variables/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/2015/hugo/req-variables/</guid>
+      <guid>https://rucch.github.io/2015/hugo/req-variables/</guid>
       <description></description>
     </item>
     
     <item>
       <title>:more</title>
-      <link>http://localhost:1313/2015/hugo/:more/</link>
+      <link>https://rucch.github.io/2015/hugo/:more/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/2015/hugo/:more/</guid>
+      <guid>https://rucch.github.io/2015/hugo/:more/</guid>
       <description></description>
     </item>
     
     <item>
       <title>archetypes</title>
-      <link>http://localhost:1313/2015/hugo/archetypes/</link>
+      <link>https://rucch.github.io/2015/hugo/archetypes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/2015/hugo/archetypes/</guid>
+      <guid>https://rucch.github.io/2015/hugo/archetypes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>:rules</title>
-      <link>http://localhost:1313/2015/hugo/:rules/</link>
+      <link>https://rucch.github.io/2015/hugo/:rules/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/2015/hugo/:rules/</guid>
+      <guid>https://rucch.github.io/2015/hugo/:rules/</guid>
       <description></description>
     </item>
     
     <item>
       <title>the templates</title>
-      <link>http://localhost:1313/2015/hugo/the-templates/</link>
+      <link>https://rucch.github.io/2015/hugo/the-templates/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/2015/hugo/the-templates/</guid>
+      <guid>https://rucch.github.io/2015/hugo/the-templates/</guid>
       <description></description>
     </item>
     
