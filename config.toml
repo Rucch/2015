@@ -1,11 +1,11 @@
-baseUrl = "https://rucch.github.io/2015"
+baseUrl = "https://Rucch.github.io/2015"
 languageCode = "en-us"
 title = "Power Guide"
 contentdir = "content"
 layoutdir = "layouts"
 publishdir = "public"
 
-canonifyurls = true
+canonifyurls: true
 
 
 [taxonomies]
