@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>References on Power Guide</title>
-    <link>https://Rucch.github.io/2015/reference/</link>
+    <link>https://rucch.github.io/2015/reference/</link>
     <description>Recent content in References on Power Guide</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://Rucch.github.io/2015/reference/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://rucch.github.io/2015/reference/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>ref</title>
