@@ -1,4 +1,4 @@
-baseUrl = "https://rucch.github.io/2015"
+baseurl = "https://rucch.github.io/2015"
 languageCode = "en-us"
 title = "Power Guide"
 contentdir = "content"
